@@ -42,3 +42,5 @@ A global, permissionless Nostr marketplace for Bitcoin commerce.
   - npub1qxda7stfxfauufa4mkgqj2lur0jdpxlpnqhqdctwl2t6akuruw3qjdkkn0
 
 [![Run on Repl.it](https://replit.com/badge/github/calvadev/shopstr)](https://replit.com/new/github/calvadev/shopstr)
+
+<!-- Auto-update: 2025-10-07T01:05:36.784981 -->
